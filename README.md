@@ -1,3 +1,3 @@
-# st-andrews-programming-language-assignment
+# CS3050: Logic & Reasoning
 
-Implemented a logic-based programming language for a school assignment
+Implemented a lightweight version of Prolog as part of school assignment in St Andrews
